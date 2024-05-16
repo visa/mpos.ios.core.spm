@@ -17,9 +17,9 @@ let package = Package(
     ],
     targets: [
         .binaryTarget(
-                    name: "mpos_core",                    
-                    url:"https://repo.visa.com/mpos-releases/io/payworks/mpos.ios.sdk/2.63.0/mpos.ios.sdk-2.63.0.zip",
-                    checksum: "ef90c0b3c814d1eafe659a6695c454a3fa5d3d65ae1c5ec15c5a60dcc9ac30c3"
+                    name: "mpos_core",
+                    url:"https://repo.visa.com/mpos-releases/io/payworks/mpos.ios.sdk/2.64.0/mpos.ios.sdk-2.64.0.zip",
+                    checksum: "e1974596eca0b41759ac8ab43aefc39a577e8caf5a3b131c085de4ed8ac8fd4a"
             ),
     ]
 )
